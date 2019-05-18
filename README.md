@@ -1,2 +1,2 @@
-# Coodoo - a simple Jekyll blog theme
+# Code Note | Xuelei Fan's Blog
 
