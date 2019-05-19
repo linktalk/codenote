@@ -39,8 +39,20 @@
   vertical-align: top;
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 991px) {
   .home-header {
     padding: 120px !important;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .home-header {
+    padding: 60px !important;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .home-header {
+    padding: 60px !important;
   }
 }
