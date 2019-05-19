@@ -104,4 +104,10 @@ h1.post-title {
   .post-list {
     grid-template-columns: auto;
   }
+
+  .post-body {
+    padding-top: 1em;
+    margin-left: 0em;
+    margin-right: 0em;
+  }
 }
