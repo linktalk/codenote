@@ -139,3 +139,8 @@ img {
   max-width: 100%;
 }
 
+@media screen and (max-width: 600px) {
+  body {
+    max-width: 100%;
+  }
+}

@@ -100,3 +100,8 @@ h1.post-title {
   line-height: 1.75;
 }
 
+@media screen and (max-width: 600px) {
+  .post-list {
+    grid-template-columns: auto;
+  }
+}
