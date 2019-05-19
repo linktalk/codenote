@@ -39,3 +39,8 @@
   vertical-align: top;
 }
 
+@media screen and (max-width: 720px) {
+  .home-header {
+    padding: 120px !important;
+  }
+}
