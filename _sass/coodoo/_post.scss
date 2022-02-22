@@ -1,33 +1,3 @@
-
-.post .post-mask {
-  height: calc(64vh - 4em);
-  padding-top: 0;
-}
-
-.post-preview .post-mask {
-  position: relative;
-  padding-bottom: 60%;
-}
-
-.post-mask figure {
-  margin: 0;
-  top: 0;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: 50%;
-}
-
-.post .post-mask figure {
-  position: relative;
-}
-
-.post-preview .post-mask figure {
-  position: absolute;
-}
-
 .post-preview a {
   text-decoration: none;
   color: #494949;
