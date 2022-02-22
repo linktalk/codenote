@@ -14,9 +14,6 @@ layout: default
       {%- for post in site.posts -%}
       <li class="post-preview">
         <a class="post-link" href="{{ post.url | relative_url }}">
-          <header class="post-mask">
-            <figure style="background-image: url('{{ site.baseurl }}/{{ post.image }}')"/>
-          </header>
           <div class="post-sumup">
             <h2 class="post-title">{{ post.title | escape }}</h2>
             {% if post.date %}
